@@ -35,14 +35,14 @@
         ]
       },
       {
-        "title": "Photography",
+        "title": "Projects",
         "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "description": "Code Fellows projects :)",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/photography/p1.png",
+          "images/portfolio/photography/p2.webp"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/tempusedax",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -81,35 +81,31 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
+        "company": "N/A",
         "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "years": "10.2022 - present",
         "mainTech": [
           "Angular 8/9/10"
         ],
         "technologies": [
           "REST API",
-          "RxJS",
+          "Crud",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
           "Angular Material"
         ]
       },
       {
-        "company": "Serros Solutions",
+        "company": "N/A",
         "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "years": "06.2022 - 07.2022",
         "mainTech": [
           "Angular 7/8"
         ],
         "technologies": [
-          "RxJS",
+          "Ruby",
           "Django",
-          "PHP",
+          "Python",
           "JavaScript",
           "DHTMLX Gantt"
         ]
